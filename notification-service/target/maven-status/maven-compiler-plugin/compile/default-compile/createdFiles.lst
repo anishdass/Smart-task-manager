@@ -1,0 +1,9 @@
+com/smarttaskmanager/notification_service/services/NotificationService.class
+com/smarttaskmanager/notification_service/repository/NotificationRepository.class
+com/smarttaskmanager/notification_service/entity/EventStatus.class
+com/smarttaskmanager/notification_service/client/TaskClient.class
+com/smarttaskmanager/notification_service/dto/TaskDTO.class
+com/smarttaskmanager/notification_service/NotificationServiceApplication.class
+com/smarttaskmanager/notification_service/controller/NotificationController.class
+com/smarttaskmanager/notification_service/entity/NotificationEvent.class
+com/smarttaskmanager/notification_service/config/WebConfig.class
